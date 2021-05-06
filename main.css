@@ -1,23 +1,12 @@
-h1 {colour: black;
+h1  {
     font-size: 30px;
     /* border: purple solid 4px; */
 }
 
 body {
-    font-size:larger;
+    font-size: larger;
     
     background-color: gray;
-    
-
-}
-
-#navBar {
-    /* border: red solid 4px; */
-    
-}
-
-#mainBody {
-    /* border: blue solid 4px; */
 }
 
 #mainBody img {
@@ -30,12 +19,6 @@ width: 100%;
     display: flex;
     flex-direction: column;
 
-
-}
-#aboutSection img{
-
-}
-
 #photo {
     /* border: red solid 4px; */
     width: 100%;
@@ -45,7 +28,6 @@ width: 100%;
     flex-flow: wrap;
     
     
-
 }
 
 #photo img{
