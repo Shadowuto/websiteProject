@@ -1,0 +1,53 @@
+h1 {colour: black;
+    font-size: 30px;
+    /* border: purple solid 4px; */
+}
+
+body {
+    font-size:larger;
+    
+    background-color: gray;
+    
+
+}
+
+#navBar {
+    /* border: red solid 4px; */
+    
+}
+
+#mainBody {
+    /* border: blue solid 4px; */
+}
+
+#mainBody img {
+/* border: green solid 4px; */
+width: 100%;
+}
+
+#aboutSection{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+
+}
+#aboutSection img{
+
+}
+
+#photo {
+    /* border: red solid 4px; */
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;  
+    flex-flow: wrap;
+    
+    
+
+}
+
+#photo img{
+    width: 60%;
+}
